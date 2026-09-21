@@ -1,0 +1,28 @@
+{
+  "name": "ÜSTAD SİBER EĞİTİM — Kenan Kuzucu",
+  "short_name": "ÜSTAD SİBER",
+  "description": "Siber güvenlik eğitim akademisi: 37 bölüm, 3.227 kayıt, seviyeli sınav ve sertifika. Çevrimdışı çalışır.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "background_color": "#040a12",
+  "theme_color": "#37e0ff",
+  "categories": ["education", "security", "books"],
+  "icons": [
+    { "src": "foto/ikon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "foto/ikon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "foto/ikon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Sınav modu", "short_name": "Sınav", "url": "index.html?s=sinav",
+      "icons": [{ "src": "foto/ikon-192.png", "sizes": "192x192" }] },
+    { "name": "Kaldığım yer", "short_name": "Devam", "url": "index.html?s=devam",
+      "icons": [{ "src": "foto/ikon-192.png", "sizes": "192x192" }] },
+    { "name": "Favorilerim", "short_name": "Favori", "url": "index.html?s=fav",
+      "icons": [{ "src": "foto/ikon-192.png", "sizes": "192x192" }] }
+  ]
+}
