@@ -15,6 +15,19 @@
 
 ---
 
+## 📥 Uygulama (APK) indir
+
+İki sürüm hazır — ikisi de **aynı imza anahtarıyla** imzalandı, içerik paketin içinde şifreli olarak gömülüdür (giriş kodu olmadan açılmaz, internet olmadan çalışır).
+
+| Sürüm | Kime | İndir |
+| :--- | :--- | :--- |
+| 📱 **CEP TELEFONU** | dokunmatik telefon / tablet | [USTAD-SIBER-EGITIM-CEP.apk](apk/USTAD-SIBER-EGITIM-CEP.apk) · 4,7 MB |
+| 📺 **TV BOX** | Android TV kutusu / akıllı TV (kumandalı, yatay ekran) | [USTAD-SIBER-EGITIM-TV.apk](apk/USTAD-SIBER-EGITIM-TV.apk) · 4,7 MB |
+
+Kurulum ve kumanda tuşları: [apk/KURULUM-OKU-BENI.txt](apk/KURULUM-OKU-BENI.txt)
+
+> TV sürümünde kumanda **okları** ekrandaki mavi imleci gezdirir, **OK** tıklar, **KANAL ▲▼** sayfayı kaydırır, **MENÜ** imleci gizler.
+
 ## 🔒 Güvenlik
 
 <div align="center">

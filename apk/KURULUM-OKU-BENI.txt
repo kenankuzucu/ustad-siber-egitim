@@ -1,0 +1,68 @@
+════════════════════════════════════════════════════════════════
+   ÜSTAD SİBER EĞİTİM — KURULUM (CEP TELEFONU ve TV BOX)
+   Hazırlayan: ÜSTAD KENAN KUZUCU   ·   21 Eylül 2026
+════════════════════════════════════════════════════════════════
+
+Bu klasörde İKİ uygulama var. İkisi de aynı içeriği taşır; farkı,
+hangi cihazda nasıl çalıştığıdır.
+
+  1) CEP TELEFONU — USTAD-SIBER-EGITIM-CEP.apk
+     Dokunmatik telefon/tablet için. Ekrana parmakla dokunursun.
+
+  2) TV BOX — USTAD-SIBER-EGITIM-TV.apk
+     Android TV kutusu ve akıllı TV için. YATAY ekran + KUMANDA ile
+     gezinme (ekranda mavi imleç çıkar, oklarla gezersin).
+     TV'nin ana menüsünde "ÜSTAD SİBER EĞİTİM TV" olarak görünür.
+
+────────────────────────────────────────────────────────────────
+GİRİŞ KODU (ikisinde de aynı)
+────────────────────────────────────────────────────────────────
+  Selvi-Aslan-Zeytin-Zeytin!99
+
+  · İçerik şifrelidir: bu kod olmadan hiçbir şey açılmaz.
+  · Kod, ayrıca masaüstündeki "SIFRELI-BILGISAYARDA-KALSIN"
+    klasöründeki dosyada ve sistem dökümünün Word/PDF'inde yazılı.
+  · TV'de kodu yazmak zahmetli olabilir: kodu BİR KEZ gir ve
+    "bu cihazda hatırla" işaretini bırak; sonraki açılışlarda
+    kendiliğinden açılır.
+
+────────────────────────────────────────────────────────────────
+TELEFONA KURULUM
+────────────────────────────────────────────────────────────────
+  1. Bu APK'yı telefona at (WhatsApp'tan kendine gönder, USB kablosu
+     ya da Google Drive).
+  2. Dosyaya dokun → "Bilinmeyen kaynaklara izin ver" derse izin ver.
+  3. Kur → aç → giriş kodunu yaz.
+  4. Çevrimdışı çalışır (internet olmasa da içerik açılır).
+
+────────────────────────────────────────────────────────────────
+TV BOX / AKILLI TV'YE KURULUM
+────────────────────────────────────────────────────────────────
+  1. APK'yı USB belleğe kopyala (ya da kutudaki dosya yöneticisinden
+     indir).
+  2. TV'de Ayarlar → Güvenlik → "Bilinmeyen kaynaklar" iznini aç.
+  3. USB belleği tak → dosya yöneticisiyle APK'yı bul → kur.
+     (Bazı TV kutularında "Send Files to TV" uygulaması da işe yarar.)
+  4. Kurulunca ana menüde/uygulamalar listesinde "ÜSTAD SİBER
+     EĞİTİM TV" olarak görünür — bannerlı (mavi kalkan) olarak.
+  5. Aç → giriş kodunu kumandayla yaz (ekran klavyesi çıkar).
+
+────────────────────────────────────────────────────────────────
+KUMANDA TUŞLARI (TV sürümü)
+────────────────────────────────────────────────────────────────
+  ◀ ▲ ▼ ▶  ... İmleci gezdirir (ekranda mavi halka)
+  OK / ENTER .. İmlecin üstündeki şeye tıklar
+  KANAL ▲▼ ... Sayfayı yukarı/aşağı kaydırır
+  MENÜ ....... İmleci gizler / geri getirir
+  GERİ ....... Sayfada geri; ana sayfadayken "tekrar bas → çık"
+
+────────────────────────────────────────────────────────────────
+NOTLAR
+────────────────────────────────────────────────────────────────
+  · İki APK da aynı imza anahtarıyla imzalandı: ileride yeni sürüm
+    çıkardığımda üzerine kurulur, ayarların silinmez.
+  · Uygulamalar internet VARSA canlı siteye (kenankuzucu.github.io)
+    geçer; internet YOKSA cihazın içindeki kopyayı açar. İçerik
+    gömülüdür, çevrimdışı tam çalışır.
+  · Bu klasörü ve giriş kodunu kimseyle paylaşma.
+════════════════════════════════════════════════════════════════
