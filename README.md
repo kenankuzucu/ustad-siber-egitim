@@ -28,6 +28,20 @@ Kurulum ve kumanda tuşları: [apk/KURULUM-OKU-BENI.txt](apk/KURULUM-OKU-BENI.tx
 
 > TV sürümünde kumanda **okları** ekrandaki mavi imleci gezdirir, **OK** tıklar, **KANAL ▲▼** sayfayı kaydırır, **MENÜ** imleci gizler.
 
+## 📸 Ekran görüntüleri
+
+Arayüzden kareler — profil fotoğrafı gizlenerek alınmıştır.
+
+|  |  |
+| :---: | :---: |
+| **🔐 Giriş perdesi**<br>![Giriş perdesi](ekran/0-giris-perdesi.png) | **🏠 Ana sayfa**<br>![Ana sayfa](ekran/1-ana-sayfa.png) |
+| **🧰 Araç sözlüğü**<br>![Araç sözlüğü](ekran/2-arac-sozlugu.png) | **🔑 Kriptoloji**<br>![Kriptoloji](ekran/3-kriptoloji.png) |
+| **🎯 Sınav paneli**<br>![Sınav](ekran/4-sinav.png) | **🎬 3D stüdyo**<br>![3D stüdyo](ekran/5-studyo.png) |
+
+| **🌍 CANLI DÜNYA sahnesi** |
+| :---: |
+| ![CANLI DÜNYA](ekran/6-canli-dunya.png) |
+
 ## 🔒 Güvenlik
 
 <div align="center">
