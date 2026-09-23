@@ -1,0 +1,28 @@
+TÜM HAKLARI SAKLIDIR / ALL RIGHTS RESERVED
+=========================================
+
+Eser sahibi : Üstad Kenan Kuzucu
+Yıl         : 2026
+
+Bu klasördeki ve bu projeye ait tüm dosyalar (kaynak kod, tasarım, metin, görsel, ses,
+belge ve derlenmiş uygulamalar) eser sahibine aittir.
+
+İZİN VERİLMEYENLER:
+  - Kopyalama, çoğaltma, dağıtma, satma, kiralama
+  - Değiştirip yeniden yayınlama veya kendi adına sunma
+  - Ticari kullanım
+  - Kaynak gösterilmeden alıntı
+
+İZİN VERİLENLER:
+  - Kişisel kullanım (kendi cihazında çalıştırma)
+  - Kaynak gösterilerek kısa alıntı (basın/tanıtım)
+
+ÖNEMLİ NOT (savunma amaçlı kullanım):
+  Projedeki güvenlik araçları yalnız KENDİ sisteminizde veya yazılı izin aldığınız
+  sistemlerde kullanılabilir. İzinsiz sistemlere yönelik kullanım 5237 sayılı Türk Ceza
+  Kanunu'nun 243 ve 244. maddeleri kapsamında suç teşkil eder.
+
+Üçüncü taraf içerikler (canlı yayın/radyo adresleri, harita verisi, yazı tipi, kütüphaneler)
+ilgili hak sahiplerinin lisanslarına tabidir.
+
+İzin talebi ve sorular için: Üstad Kenan Kuzucu
